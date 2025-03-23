@@ -1,5 +1,5 @@
 # Portfolio
 this is my parsonal portfolio!
 
-# Dev By;
+# created by;
 Ranjit kumar rai
